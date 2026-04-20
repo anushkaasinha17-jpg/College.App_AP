@@ -1,0 +1,25 @@
+<!-- res/values/themes.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme — MaterialComponents required for Compose interop -->
+    <style name="Theme.CollegeAndroidApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/vu_blue</item>
+        <item name="colorPrimaryVariant">@color/vu_blue_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/vu_gold</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/vu_blue_dark</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+
+        <!-- Window background -->
+        <item name="android:windowBackground">@color/surface</item>
+    </style>
+
+</resources>
