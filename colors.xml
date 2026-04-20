@@ -1,0 +1,22 @@
+<!-- res/values/colors.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- VU Brand Colors -->
+    <color name="vu_blue">#FF003399</color>
+    <color name="vu_blue_dark">#FF001A6E</color>
+    <color name="vu_blue_light">#FF4D6FCC</color>
+    <color name="vu_gold">#FFFFAA00</color>
+    <color name="vu_gold_light">#FFFFD666</color>
+
+    <!-- Semantic -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="surface">#FFF5F7FF</color>
+    <color name="on_surface">#FF1A1C2C</color>
+    <color name="outline">#FF8B90B0</color>
+
+    <!-- Status -->
+    <color name="success">#FF2E7D32</color>
+    <color name="warning">#FFFFAA00</color>
+    <color name="error">#FFB00020</color>
+</resources>
